@@ -1,4 +1,4 @@
-- 👋 Hey!! I’m @moonitini
+- 👋 Hey!! I’m @moonitini (yes, this username takes inspo from the pokemon, dratini) 
 - 👀 I’m interested in web design, game development, and multimedia art 
 - 🌱 I’m currently learning Flutter.js, Sveltekit, and React 
 - 📫 How to reach me: bonasuh@usc.edu
