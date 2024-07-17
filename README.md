@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @moonitini
-- 👀 I’m interested in web design and 3-D graphics !!
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on indie games
-- 📫 How to reach me: cottonbubblez@gmail.com
+- 👋 Hey!! I’m @moonitini
+- 👀 I’m interested in web design, game development, and multimedia art 
+- 🌱 I’m currently learning Flutter.js, Sveltekit, and React 
+- 📫 How to reach me: bonasuh@usc.edu
 
 <!---
 moonitini/moonitini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
